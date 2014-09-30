@@ -22,7 +22,7 @@ Asterisk:
 Nodejs:
 
     node/cdr/cdr.js                           Conecta na porta 5038 e ao final de uma chamada recebe o bilhete da chamada.
-    node/keen.io/read_cdr_file_save_keeio.js  Nesse exemplo o node aguarda a inserção de um novo bilhete no arquivo configurado em cdr_custom e o envia para keen.io para mais informações sobre o keen acesse www.keen.io.
+    node/keen.io/read_cdr_file_save_keenio.js  Nesse exemplo o node aguarda a inserção de um novo bilhete no arquivo configurado em cdr_custom e o envia para keen.io para mais informações sobre o keen acesse www.keen.io.
     node/originate/sendOriginate.js           Exemplo que gera uma chamada entre o ramal 101 e 100.
 
 
