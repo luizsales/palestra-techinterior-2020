@@ -1,14 +1,11 @@
-var Cdr = require('./mongo');
-
 var ami = new require('asterisk-manager')(
                 '5038',
                 '127.0.0.1',
                 'user',
-                'senha',
+                '123',
                 true);
 
 
-exports.getAsteriskCdrEvent = function () {
 
  ami.action({
         'action':'events',
@@ -27,4 +24,4 @@ console.log(evt);
 });
 
 
-}
+

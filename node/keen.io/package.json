@@ -1,0 +1,8 @@
+{
+  "name": "asterisk-node",
+  "version": "0.0.1",
+  "dependencies": {
+    "keen.io": "~0.1.2"
+  }
+}
+

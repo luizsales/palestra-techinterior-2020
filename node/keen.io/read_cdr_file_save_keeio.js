@@ -1,7 +1,7 @@
 var Keen = require("keen.io");
 var keen = Keen.configure({
-    projectId: "",
-    writeKey: ""
+    projectId: "xxxxxxx",
+    writeKey: "yyyyyy"
 });
 
 

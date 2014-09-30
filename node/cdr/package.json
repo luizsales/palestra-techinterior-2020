@@ -1,0 +1,8 @@
+{
+  "name": "asterisk-node",
+  "version": "0.0.1",
+  "dependencies": {
+    "asterisk-manager": "~0.1.12"
+  }
+}
+
